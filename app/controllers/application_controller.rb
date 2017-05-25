@@ -5,6 +5,6 @@ class ApplicationController < ActionController::Base
   	render html: "¡Olⵠ mundo! ꔢ 𐎘"
   end
   def def2
-  	render html: "ⵠⵠⵠⵠⵠⵠ"
+  	render html: "Olá mundo"
   end
 end
